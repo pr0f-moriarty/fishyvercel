@@ -71,7 +71,9 @@ export function PrimaryBody(props) {
       <p className="font-normal mt-1 text-center text-gray-500 text-sm sm:text-lg mx-7">
         Enter the URL you want to check
       </p>
-
+      
+      <img src={PhishGif} alt="Phishing Gif"
+        className="max-sm:w-[50%] sm:w-[40%] md:w-[27%] max-md:ml-[30%] md:ml-[40%] lg:w-[24%] mt-3"/>
       
 
       <div className="flex max-md:flex-col md:flex-row mt-5">
