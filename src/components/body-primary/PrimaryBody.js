@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./PrimaryBody.css";
+import PhishGif from "../../assets/Phishing.jpg";
 import { useNavigate } from "react-router-dom";
 const axios = require("axios");
 
