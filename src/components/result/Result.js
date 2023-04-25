@@ -47,7 +47,7 @@ export function Result(props) {
       <button 
       className="px-5 py-3 text-center mt-8 w-fit bg-red-400 hover:bg-red-500 
       active:bg-red-300 text-white font-extrabold text-roboto rounded ml-[37%] sm:ml-[42%] md:ml-[44%] lg:ml-[46%]"
-      onClick={() => navigate("/")}> Try again ? </button>
+      onClick={() => navigate("/")}> Try again  </button>
     </>
   );
 }
