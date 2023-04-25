@@ -19,7 +19,7 @@ export function SecondaryBody() {
           
           <br/> <br/>
          <span className="font-bold sm:text-sm underline text-red-400 hover:text-white mb-5"> 
-         <a href="https://github.com/pr0f-moriarty/fishy" target="_blank" rel="noreferrer">
+         <a href="https://github.com/pr0f-moriarty/fishyvercel" target="_blank" rel="noreferrer">
          LEARN MORE </a> </span>
         </p>
       </div>
