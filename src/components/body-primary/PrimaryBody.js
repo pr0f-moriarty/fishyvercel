@@ -20,7 +20,7 @@ function get_Prediction(url, showProgress, navigate) {
   // Make progressbar visible
   showProgress(true);
 
-  const api_url = "https://web-production-0e99.up.railway.app/predict";
+  const api_url = "https://fishy.herokuapp.com/predict";
 
   // No need to convert to json string
   var data = { url: url };
